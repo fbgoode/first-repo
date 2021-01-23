@@ -1,4 +1,3 @@
 # first-repo
 
-Edited from branch "new-feature"
-Edited from local branch develop
+This repository is empty, but I keep it because it was my first one ever :)
